@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-FLUSHTYPE 4 -XMLPATH E:\ReaderTest\ReaderTest\Res\PubulishTest\res\MainScene.csb -RES E:\ReaderTest\ReaderTest\Res\PubulishTest\res -WIDTH 960 -HEIGHT 640 -DLLPATH ""</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

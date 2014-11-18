@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ReadJSHelper.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ColliderRectDrawer.cpp">
+      <Filter>class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\trigger\acts.cpp">
+      <Filter>trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\trigger\cons.cpp">
+      <Filter>trigger</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppMacros.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ColliderRectDrawer.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ReadJSHelper.h">
+      <Filter>class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\trigger\acts.h">
+      <Filter>trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\trigger\cons.h">
+      <Filter>trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\trigger\EventDef.h">
+      <Filter>trigger</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="class">
+      <UniqueIdentifier>{b0ab5f00-5c8f-4b8f-b2ae-ce32a11cf807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="trigger">
+      <UniqueIdentifier>{dd082886-fc1e-4984-94d4-d2dd7792f9c9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
